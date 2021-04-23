@@ -1,5 +1,5 @@
 # PyTorch - T academy
-T아카데미 파이토치 강의 실습
+T아카데미 파이토치 강의 (딥러닝을 위한 PyTorch 활용법) 실습 
 
 - 유튜브 링크: https://www.youtube.com/playlist?list=PL9mhQYIlKEhcCgdOLFZTTuT13tDaQFQDV
 - 원본 코드 링크: https://github.com/GunhoChoi/PyTorch-FastCampus
